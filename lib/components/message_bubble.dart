@@ -81,7 +81,10 @@ class MessageBubble extends StatelessWidget {
                     children: [
                       if (!belongsToCurrentUser)
                         Text(
-                          message.userName,
+                          message.userName.length > 10 &&
+                                  !message.userName.contains(" ")
+                              ? "${message.userName[0].toUpperCase()}${message.userName.substring(1, 10).toLowerCase()}..."
+                              : "${message.userName.split(" ")[0][0].toUpperCase()}${message.userName.split(" ")[0].substring(1).toLowerCase()}",
                           style: const TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.bold,
