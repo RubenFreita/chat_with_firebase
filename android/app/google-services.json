@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "904073961868",
+    "firebase_url": "https://chat-with-firebase-46aac-default-rtdb.firebaseio.com",
+    "project_id": "chat-with-firebase-46aac",
+    "storage_bucket": "chat-with-firebase-46aac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904073961868:android:fa08bb2c36cf74794876a9",
+        "android_client_info": {
+          "package_name": "br.com.ruben.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904073961868-1q1ikp7e0b6g5rvinmufc7acqi2uc2oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4ZNCu9soXpGzs97KjeI_-yjM2TVJ9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904073961868-1q1ikp7e0b6g5rvinmufc7acqi2uc2oi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904073961868-4tfh2t63p7nmafr50bd55hh11e1atnh2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatWithFirebase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904073961868:android:3aa5c70b5585f8154876a9",
+        "android_client_info": {
+          "package_name": "com.example.chat_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904073961868-1q1ikp7e0b6g5rvinmufc7acqi2uc2oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4ZNCu9soXpGzs97KjeI_-yjM2TVJ9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904073961868-1q1ikp7e0b6g5rvinmufc7acqi2uc2oi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904073961868-4tfh2t63p7nmafr50bd55hh11e1atnh2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatWithFirebase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
