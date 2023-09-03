@@ -1,16 +1,21 @@
 # chat_with_firebase
 
-A new Flutter project.
+Projeto de Chat online usando o Firebase como backend da aplicação.
 
-## Getting Started
+## ScreenShots do Projeto
 
-This project is a starting point for a Flutter application.
+### Tela de Login
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets\images\screenshot-loginpage.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Tela de Cadastro de Usuário
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets\images\screenshot-signuppage.png">
+
+### ChatPage
+
+<img src="assets\images\screenshot-chatpage.png">
+
+### Tela de Notificações
+
+<img src="assets\images\screenshot-notificatiospage.png">
